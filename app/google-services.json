@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252436462067",
+    "firebase_url": "https://chipstock-f8038.firebaseio.com",
+    "project_id": "chipstock-f8038",
+    "storage_bucket": "chipstock-f8038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252436462067:android:b1e288d48720878aae7a86",
+        "android_client_info": {
+          "package_name": "com.developer.alfin.chipstock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252436462067-adfhsc0q6mq20emnmlq9emsn9ccdc1gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.alfin.chipstock",
+            "certificate_hash": "acd6746202030d3dbbff896b22ca269c330fd72c"
+          }
+        },
+        {
+          "client_id": "252436462067-a9u97dh9hl5lmn3nucrj90vso6hrc1r7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALxo7G_ubfj6NRFH6cqxgMQ-anv9m4Z_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252436462067-a9u97dh9hl5lmn3nucrj90vso6hrc1r7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
